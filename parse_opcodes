@@ -340,6 +340,8 @@ csrs = [
   (0x7C3, 'sc'),
   (0x7C4, 'user_low'),
   (0x7C5, 'user_high'),
+  (0x7C6, 'copift'),
+  (0x7C7, 'dump'),
 ]
 
 csrs32 = [

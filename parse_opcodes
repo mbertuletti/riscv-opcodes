@@ -342,6 +342,7 @@ csrs = [
   (0x7C5, 'user_high'),
   (0x7C6, 'copift'),
   (0x7C7, 'dump'),
+  (0xBA0, 'pace'),
 ]
 
 csrs32 = [
